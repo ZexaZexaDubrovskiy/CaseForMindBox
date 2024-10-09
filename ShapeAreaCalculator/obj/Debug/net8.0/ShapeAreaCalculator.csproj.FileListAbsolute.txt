@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.deps.json
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.dll
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.pdb
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.dll
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\refint\ShapeAreaCalculator.dll
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.pdb
+C:\Users\Admin\Desktop\ads\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\net8.0\ref\ShapeAreaCalculator.dll

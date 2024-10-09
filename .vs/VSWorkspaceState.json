@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShapeAreaCalculator",
+    "\\ShapeAreaCalculator\\Interfaces",
+    "\\ShapeAreaCalculator\\Models",
+    "\\ShapeAreaCalculator\\UnitTests"
+  ],
+  "SelectedNode": "\\ShapeAreaCalculator\\Models\\Triangle.cs",
+  "PreviewInSolutionExplorer": false
+}
